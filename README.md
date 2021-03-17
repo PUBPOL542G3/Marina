@@ -1,5 +1,5 @@
 # Marina
-This folder contains a tutorial on reshaping and cleaning data using the Python language Jupyter Notebook.
+This folder contains a tutorial on reshaping and cleaning data using the Python language in Jupyter Notebook.
 
 This folder contains the following files:
 1) FAOSTAT_data_1-21-2021.xls
